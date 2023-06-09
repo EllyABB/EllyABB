@@ -1,4 +1,4 @@
--  Hi, I’m @EllyABB
+@EllyABB
 -  I’m interested in science
 -  I’m currently learning go and Frotran
 - 💞️ I’m currently doing my phD.
