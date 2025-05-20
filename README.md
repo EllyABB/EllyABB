@@ -1,6 +1,7 @@
 @EllyABB
 -  I’m interested in science
--  I’m currently learning go and Frotran
+-  Codes in go, Frotran, python
+-  Learning Neural network, PINN's
 - 💞️ I’m currently doing my phD.
 - 📫 Anything available by email: ekbayonab@gmail.com 
 
